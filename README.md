@@ -1,2 +1,2 @@
-# the group project
-# details could be found in the pdf file 
+the group project
+details could be found in the pdf file 
